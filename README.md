@@ -6,8 +6,6 @@ Um framework de gestão para governar, operar e melhorar continuamente a IA.
 
 Site: [aiilframework.com/pt/](https://aiilframework.com/pt/)
 
-**Situação:** rascunho, versão 1.1. Esta é a edição em português, para o Brasil. O conteúdo específico sobre a legislação e a regulação brasileiras ainda não existe. Nada aqui é aconselhamento jurídico, e um advogado ainda não revisou o material. As traduções aguardam a revisão do autor.
-
 ## Conteúdo
 
 | Documento | Para quem | O que é |
