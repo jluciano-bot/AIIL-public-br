@@ -71,6 +71,7 @@ A AIIL define cinco níveis de maturidade organizacional em IA:
 | [Resumo Executivo](docs/pt-BR/AIIL-Resumo-Executivo.md) | Alta direção, conselho | O argumento de negócio para a governança de IA |
 | [Pilares](framework/pt-BR/AIIL-Pilares.md) | Profissionais | Os pilares do framework |
 | [Modelo de Maturidade](framework/pt-BR/AIIL-Modelo-de-Maturidade.md) | Profissionais | Os níveis de maturidade |
+| [Ciclo de Vida do Serviço](framework/pt-BR/AIIL-Ciclo-de-Vida-do-Servico.md) | Profissionais | As etapas de um serviço de IA, da estratégia à desativação |
 | [Glossário](framework/pt-BR/AIIL-Glossario.md) | Todos | Termos usados |
 
 ## Licença
