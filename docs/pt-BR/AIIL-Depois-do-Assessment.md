@@ -56,7 +56,7 @@ As faixas de nível são as usadas pelo Analyzer (8, 15, 22 e 29 pontos).
 
 Refaça o assessment em **cerca de 90 dias** e compare com o primeiro. O Analyzer compara dois resultados e mostra o que melhorou, o que piorou e o que ficou igual. Depois disso, reavalie a cada **6 a 12 meses**.
 
-Guarde no seu dispositivo o arquivo "Baixar Resultado Completo (JSON)". Na próxima vez, carregue-o em "Carregar avaliação anterior" na página de resultados para ver a evolução. Você também pode carregá-lo em "Carregar cópia salva" na tela de perguntas para partir das respostas e notas antigas. Use "Salvar cópia no meu dispositivo" antes de sair de um assessment pela metade. Os arquivos nunca saem do seu navegador.
+Guarde no seu dispositivo o arquivo "Baixar Resultado Completo (JSON)". Na próxima vez, carregue-o em "Carregar avaliação anterior" na página de resultados para ver a evolução. Você também pode carregá-lo em "Carregar cópia salva" na tela de perguntas para partir das respostas e notas antigas. Use "Salvar cópia no meu dispositivo" antes de sair de um assessment pela metade. Os arquivos nunca saem do seu navegador. Cada arquivo de resultado também guarda o histórico das avaliações anteriores (a primeira e as 11 mais recentes); assim, a próxima avaliação mostra um radar com os resultados da primeira, da anterior e da atual e um gráfico do total ao longo do tempo. Carregue sempre o arquivo mais novo. Esse histórico é declarado por quem tem o arquivo: serve para acompanhar a evolução e não é uma certificação.
 
 ## O que esta página não faz
 
